@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oodohtaeji.etcnotes.com/sitemap.xml
